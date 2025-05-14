@@ -1,0 +1,15 @@
+import sys
+from hashlib import sha256
+
+def hash_word(raw_word):
+    return sha256(raw_word.encode()).hexdigest()
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python hash.py <password>")
+        sys.exit(1)
+
+    word = sys.argv[1]
+    hashed = hash_word(word)
+    print(f"Input: {word}")
+    print(f"SHA-256: {hashed}")
