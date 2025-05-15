@@ -2278,7 +2278,7 @@ static const char __pyx_k_Time_2f_seconds[] = "Time: {:.2f} seconds";
 static const char __pyx_k_asyncio_coroutines[] = "asyncio.coroutines";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_Memory_allocation_failed[] = "Memory allocation failed";
-static const char __pyx_k_q_q_6_F_1_a_A_E_aq_Q_q_r_4q_IU[] = "\200\001\340\004\037\230q\330\004\037\230q\330\004 \240\001\330\004!\240\021\340\004\032\230&\240\001\240\021\330\004\032\230&\240\001\240\021\330\004\033\2306\240\021\240!\330\004\034\230F\240!\2401\340\004\026\220a\360\n\000\005\031\230\004\230A\340\004\005\330\010\020\220\001\330\010\014\210E\220\025\220a\220q\330\014\025\220Q\340\010\022\220'\230\026\230q\240\007\240r\250\021\330\010\013\2104\210q\330\014\021\220\021\220!\330\014\r\360\006\000\t\r\210I\220U\230!\2301\330\014\022\220!\330\014\020\220\005\220U\230!\2307\240\"\240D\250\004\250A\330\020\027\220q\230\005\230]\250!\2504\250r\260\021\330\020\030\230\001\330\014\023\2201\220J\230a\340\014\025\220W\230G\2401\240G\2502\250X\260W\270A\330\014\017\210w\220c\230\021\330\020\031\230\025\230a\230w\240b\250\001\330\020\025\220Q\220j\240\006\240g\250Q\330\020\025\220Q\220j\240\006\240d\250!\330\020\025\220Q\320\026,\250G\2601\260D\270\003\2702\270Q\330\020\024\220A\220Q\330\020\021\360\006\000\t\r\210I\220U\230!\2301\330\014\022\220!\330\014\020\220\005\220U\230!\2307\240\"\240D\250\004\250A\330\020\027\220q\230\005\230]\250!\2504\250r\260\021\330\020\030\230\001\330\014\023\2201\220J\230a\340\014\025\220W\230G\2401\240G\2502\250X\260W\270A\330\014\017\210w\220c\230\021\330\020\031\230\025\230a\230w\240b\250\001\330\020\025\220Q\220j\240\006\240g\250Q\330\020\025\220Q\220j\240\006\240d\250!\330\020\025\220Q\320\026,\250G\2601\260D\270\003\2702\270Q\330\020\024\220A\220Q\330\020\021\360\006\000\t\r\210I\220U\230!\2301\330\014\022\220!\330\014\020\220\005\220U\230!\2307\240\"\240D\250\004\250A\330\020\027\220q\230\005\230^\2501\250D\260\002\260!\330\020\030\230\001\330\014\023\2201\220J\230a\340\014\025\220W\230G\2401\240G\2502\250X\260W\270A\330\014\017\210w\220c\230\021\330\020\031\230\025\230a\230w\240b\250\001\330\020\025\220Q\220j\240\006\240g\250Q\330\020\025\220Q\220j\240\006\240d\250!\330\020\025\220Q\320\026,\250G\2601\260D\270\003\2702\270Q\330\020\024\220A\220Q\330\020\021\360\006\000\t\r\210I\220U\230!""\2301\330\014\022\220!\330\014\020\220\005\220U\230!\2307\240\"\240D\250\004\250A\330\020\027\220q\230\005\230_\250A\250T\260\022\2601\330\020\030\230\001\330\014\023\2201\220J\230a\340\014\025\220W\230G\2401\240G\2502\250X\260W\270A\330\014\017\210w\220c\230\021\330\020\031\230\025\230a\230w\240b\250\001\330\020\025\220Q\220j\240\006\240g\250Q\330\020\025\220Q\220j\240\006\240d\250!\330\020\025\220Q\320\026,\250G\2601\260D\270\003\2702\270Q\330\020\024\220A\220Q\330\020\021\340\010\022\220!\330\010\014\210A\210Q";
+static const char __pyx_k_a_F_1_a_A_E_aq_Q_q_r_4q_IU_1_U[] = "\200\001\340\004\036\230a\330\004\024\220F\230!\2301\330\004\026\220a\360\n\000\005\031\230\004\230A\340\004\005\330\010\020\220\001\330\010\014\210E\220\025\220a\220q\330\014\025\220Q\340\010\022\220'\230\026\230q\240\007\240r\250\021\330\010\013\2104\210q\330\014\021\220\021\220!\330\014\r\340\010\014\210I\220U\230!\2301\330\014\022\220!\330\014\020\220\005\220U\230!\2307\240\"\240D\250\004\250A\330\020\027\220q\230\005\230\\\250\021\250$\250b\260\001\330\020\030\230\001\330\014\023\2201\220J\230a\340\014\025\220W\230G\2401\240G\2502\250X\260W\270A\330\014\017\210w\220c\230\021\330\020\031\230\025\230a\230w\240b\250\001\330\020\025\220Q\220j\240\006\240g\250Q\330\020\025\220Q\220j\240\006\240d\250!\330\020\025\220Q\320\026,\250G\2601\260D\270\003\2702\270Q\330\020\024\220A\220Q\330\020\021\340\010\014\210A\210Q\330\010\022\220!";
 static const char __pyx_k_Note_that_Cython_is_deliberately[] = "Note that Cython is deliberately stricter than PEP-484 and rejects subclasses of builtin types. If you need to pass subclasses then set the 'annotation_typing' directive to False.";
 /* #### Code section: decls ### */
 static PyObject *__pyx_pf_10bruteforce_crack(CYTHON_UNUSED PyObject *__pyx_self, PyObject *__pyx_v_target_hash); /* proto */
@@ -2443,8 +2443,8 @@ static CYTHON_SMALL_CODE int __pyx_m_traverse(PyObject *m, visitproc visit, void
  * from time import time
  * 
  * cpdef crack(bytes target_hash):             # <<<<<<<<<<<<<<
- *     # Charset starts with lowercase letters and expands later
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"
+ *     # Combined charset: lowercase + uppercase + digits + symbols
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
 */
 
 static PyObject *__pyx_pw_10bruteforce_1crack(PyObject *__pyx_self, 
@@ -2455,14 +2455,8 @@ PyObject *__pyx_args, PyObject *__pyx_kwds
 #endif
 ); /*proto*/
 static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHON_UNUSED int __pyx_skip_dispatch) {
-  char *__pyx_v_charset_lower;
-  char *__pyx_v_charset_upper;
-  char *__pyx_v_charset_digits;
-  char *__pyx_v_charset_symbols;
-  int __pyx_v_base_lower;
-  int __pyx_v_base_upper;
-  int __pyx_v_base_digits;
-  int __pyx_v_base_symbols;
+  char *__pyx_v_full_charset;
+  int __pyx_v_base;
   int __pyx_v_length;
   PY_LONG_LONG __pyx_v_total;
   PY_LONG_LONG __pyx_v_count;
@@ -2499,86 +2493,32 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
 
   /* "bruteforce.pyx":8
  * cpdef crack(bytes target_hash):
- *     # Charset starts with lowercase letters and expands later
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"             # <<<<<<<<<<<<<<
- *     cdef char* charset_upper = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
- *     cdef char* charset_digits = b"0123456789"
+ *     # Combined charset: lowercase + uppercase + digits + symbols
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"             # <<<<<<<<<<<<<<
+ *     cdef int base = strlen(full_charset)
+ *     cdef int length = 1
 */
-  __pyx_v_charset_lower = ((char *)"abcdefghijklmnopqrstuvwxyz");
+  __pyx_v_full_charset = ((char *)"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,");
 
   /* "bruteforce.pyx":9
- *     # Charset starts with lowercase letters and expands later
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"
- *     cdef char* charset_upper = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ"             # <<<<<<<<<<<<<<
- *     cdef char* charset_digits = b"0123456789"
- *     cdef char* charset_symbols = b"!@#$%^&*()_-+=<>?/.,"
+ *     # Combined charset: lowercase + uppercase + digits + symbols
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
+ *     cdef int base = strlen(full_charset)             # <<<<<<<<<<<<<<
+ *     cdef int length = 1
+ *     cdef long long total, count
 */
-  __pyx_v_charset_upper = ((char *)"ABCDEFGHIJKLMNOPQRSTUVWXYZ");
+  __pyx_v_base = strlen(__pyx_v_full_charset);
 
   /* "bruteforce.pyx":10
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"
- *     cdef char* charset_upper = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
- *     cdef char* charset_digits = b"0123456789"             # <<<<<<<<<<<<<<
- *     cdef char* charset_symbols = b"!@#$%^&*()_-+=<>?/.,"
- * 
-*/
-  __pyx_v_charset_digits = ((char *)"0123456789");
-
-  /* "bruteforce.pyx":11
- *     cdef char* charset_upper = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
- *     cdef char* charset_digits = b"0123456789"
- *     cdef char* charset_symbols = b"!@#$%^&*()_-+=<>?/.,"             # <<<<<<<<<<<<<<
- * 
- *     cdef int base_lower = strlen(charset_lower)
-*/
-  __pyx_v_charset_symbols = ((char *)"!@#$%^&*()_-+=<>?/.,");
-
-  /* "bruteforce.pyx":13
- *     cdef char* charset_symbols = b"!@#$%^&*()_-+=<>?/.,"
- * 
- *     cdef int base_lower = strlen(charset_lower)             # <<<<<<<<<<<<<<
- *     cdef int base_upper = strlen(charset_upper)
- *     cdef int base_digits = strlen(charset_digits)
-*/
-  __pyx_v_base_lower = strlen(__pyx_v_charset_lower);
-
-  /* "bruteforce.pyx":14
- * 
- *     cdef int base_lower = strlen(charset_lower)
- *     cdef int base_upper = strlen(charset_upper)             # <<<<<<<<<<<<<<
- *     cdef int base_digits = strlen(charset_digits)
- *     cdef int base_symbols = strlen(charset_symbols)
-*/
-  __pyx_v_base_upper = strlen(__pyx_v_charset_upper);
-
-  /* "bruteforce.pyx":15
- *     cdef int base_lower = strlen(charset_lower)
- *     cdef int base_upper = strlen(charset_upper)
- *     cdef int base_digits = strlen(charset_digits)             # <<<<<<<<<<<<<<
- *     cdef int base_symbols = strlen(charset_symbols)
- * 
-*/
-  __pyx_v_base_digits = strlen(__pyx_v_charset_digits);
-
-  /* "bruteforce.pyx":16
- *     cdef int base_upper = strlen(charset_upper)
- *     cdef int base_digits = strlen(charset_digits)
- *     cdef int base_symbols = strlen(charset_symbols)             # <<<<<<<<<<<<<<
- * 
- *     cdef int length = 1  # Start with a 1-character password length
-*/
-  __pyx_v_base_symbols = strlen(__pyx_v_charset_symbols);
-
-  /* "bruteforce.pyx":18
- *     cdef int base_symbols = strlen(charset_symbols)
- * 
- *     cdef int length = 1  # Start with a 1-character password length             # <<<<<<<<<<<<<<
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
+ *     cdef int base = strlen(full_charset)
+ *     cdef int length = 1             # <<<<<<<<<<<<<<
  *     cdef long long total, count
  *     cdef char* attempt
 */
   __pyx_v_length = 1;
 
-  /* "bruteforce.pyx":23
+  /* "bruteforce.pyx":15
  *     cdef int i, idx
  *     cdef bytes hashed, result
  *     cdef double start = time()             # <<<<<<<<<<<<<<
@@ -2586,7 +2526,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
  *     while True:
 */
   __pyx_t_2 = NULL;
-  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 23, __pyx_L1_error)
+  __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 15, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
   __pyx_t_4 = 1;
   #if CYTHON_UNPACK_METHODS
@@ -2605,14 +2545,14 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
     __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_3, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
     __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
     __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 23, __pyx_L1_error)
+    if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 15, __pyx_L1_error)
     __Pyx_GOTREF(__pyx_t_1);
   }
-  __pyx_t_5 = __Pyx_PyFloat_AsDouble(__pyx_t_1); if (unlikely((__pyx_t_5 == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 23, __pyx_L1_error)
+  __pyx_t_5 = __Pyx_PyFloat_AsDouble(__pyx_t_1); if (unlikely((__pyx_t_5 == (double)-1) && PyErr_Occurred())) __PYX_ERR(0, 15, __pyx_L1_error)
   __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
   __pyx_v_start = __pyx_t_5;
 
-  /* "bruteforce.pyx":25
+  /* "bruteforce.pyx":17
  *     cdef double start = time()
  * 
  *     while True:             # <<<<<<<<<<<<<<
@@ -2621,20 +2561,20 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
 */
   while (1) {
 
-    /* "bruteforce.pyx":26
+    /* "bruteforce.pyx":18
  * 
  *     while True:
  *         total = 1             # <<<<<<<<<<<<<<
  *         for _ in range(length):
- *             total *= base_lower  # Start with lowercase only, will expand later
+ *             total *= base
 */
     __pyx_v_total = 1;
 
-    /* "bruteforce.pyx":27
+    /* "bruteforce.pyx":19
  *     while True:
  *         total = 1
  *         for _ in range(length):             # <<<<<<<<<<<<<<
- *             total *= base_lower  # Start with lowercase only, will expand later
+ *             total *= base
  * 
 */
     __pyx_t_6 = __pyx_v_length;
@@ -2642,18 +2582,18 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
     for (__pyx_t_8 = 0; __pyx_t_8 < __pyx_t_7; __pyx_t_8+=1) {
       __pyx_v__ = __pyx_t_8;
 
-      /* "bruteforce.pyx":28
+      /* "bruteforce.pyx":20
  *         total = 1
  *         for _ in range(length):
- *             total *= base_lower  # Start with lowercase only, will expand later             # <<<<<<<<<<<<<<
+ *             total *= base             # <<<<<<<<<<<<<<
  * 
  *         attempt = <char*>malloc(length + 1)
 */
-      __pyx_v_total = (__pyx_v_total * __pyx_v_base_lower);
+      __pyx_v_total = (__pyx_v_total * __pyx_v_base);
     }
 
-    /* "bruteforce.pyx":30
- *             total *= base_lower  # Start with lowercase only, will expand later
+    /* "bruteforce.pyx":22
+ *             total *= base
  * 
  *         attempt = <char*>malloc(length + 1)             # <<<<<<<<<<<<<<
  *         if not attempt:
@@ -2661,7 +2601,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
 */
     __pyx_v_attempt = ((char *)malloc((__pyx_v_length + 1)));
 
-    /* "bruteforce.pyx":31
+    /* "bruteforce.pyx":23
  * 
  *         attempt = <char*>malloc(length + 1)
  *         if not attempt:             # <<<<<<<<<<<<<<
@@ -2671,7 +2611,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
     __pyx_t_9 = (!(__pyx_v_attempt != 0));
     if (__pyx_t_9) {
 
-      /* "bruteforce.pyx":32
+      /* "bruteforce.pyx":24
  *         attempt = <char*>malloc(length + 1)
  *         if not attempt:
  *             print("Memory allocation failed")             # <<<<<<<<<<<<<<
@@ -2687,23 +2627,23 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
         __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
         __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 32, __pyx_L1_error)
+        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 24, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
       }
       __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-      /* "bruteforce.pyx":33
+      /* "bruteforce.pyx":25
  *         if not attempt:
  *             print("Memory allocation failed")
  *             return             # <<<<<<<<<<<<<<
  * 
- *         # First try lowercase characters
+ *         for count in range(total):
 */
       __Pyx_XDECREF(__pyx_r);
       __pyx_r = Py_None; __Pyx_INCREF(Py_None);
       goto __pyx_L0;
 
-      /* "bruteforce.pyx":31
+      /* "bruteforce.pyx":23
  * 
  *         attempt = <char*>malloc(length + 1)
  *         if not attempt:             # <<<<<<<<<<<<<<
@@ -2712,9 +2652,9 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
 */
     }
 
-    /* "bruteforce.pyx":36
+    /* "bruteforce.pyx":27
+ *             return
  * 
- *         # First try lowercase characters
  *         for count in range(total):             # <<<<<<<<<<<<<<
  *             idx = count
  *             for i in range(length - 1, -1, -1):
@@ -2724,66 +2664,66 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
     for (__pyx_t_12 = 0; __pyx_t_12 < __pyx_t_11; __pyx_t_12+=1) {
       __pyx_v_count = __pyx_t_12;
 
-      /* "bruteforce.pyx":37
- *         # First try lowercase characters
+      /* "bruteforce.pyx":28
+ * 
  *         for count in range(total):
  *             idx = count             # <<<<<<<<<<<<<<
  *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_lower[idx % base_lower]
+ *                 attempt[i] = full_charset[idx % base]
 */
       __pyx_v_idx = __pyx_v_count;
 
-      /* "bruteforce.pyx":38
+      /* "bruteforce.pyx":29
  *         for count in range(total):
  *             idx = count
  *             for i in range(length - 1, -1, -1):             # <<<<<<<<<<<<<<
- *                 attempt[i] = charset_lower[idx % base_lower]
- *                 idx //= base_lower
+ *                 attempt[i] = full_charset[idx % base]
+ *                 idx //= base
 */
       for (__pyx_t_6 = (__pyx_v_length - 1); __pyx_t_6 > -1; __pyx_t_6-=1) {
         __pyx_v_i = __pyx_t_6;
 
-        /* "bruteforce.pyx":39
+        /* "bruteforce.pyx":30
  *             idx = count
  *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_lower[idx % base_lower]             # <<<<<<<<<<<<<<
- *                 idx //= base_lower
+ *                 attempt[i] = full_charset[idx % base]             # <<<<<<<<<<<<<<
+ *                 idx //= base
  *             attempt[length] = b'\0'
 */
-        if (unlikely(__pyx_v_base_lower == 0)) {
+        if (unlikely(__pyx_v_base == 0)) {
           PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 39, __pyx_L1_error)
+          __PYX_ERR(0, 30, __pyx_L1_error)
         }
-        (__pyx_v_attempt[__pyx_v_i]) = (__pyx_v_charset_lower[__Pyx_mod_int(__pyx_v_idx, __pyx_v_base_lower, 0)]);
+        (__pyx_v_attempt[__pyx_v_i]) = (__pyx_v_full_charset[__Pyx_mod_int(__pyx_v_idx, __pyx_v_base, 0)]);
 
-        /* "bruteforce.pyx":40
+        /* "bruteforce.pyx":31
  *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_lower[idx % base_lower]
- *                 idx //= base_lower             # <<<<<<<<<<<<<<
+ *                 attempt[i] = full_charset[idx % base]
+ *                 idx //= base             # <<<<<<<<<<<<<<
  *             attempt[length] = b'\0'
  * 
 */
-        if (unlikely(__pyx_v_base_lower == 0)) {
+        if (unlikely(__pyx_v_base == 0)) {
           PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 40, __pyx_L1_error)
+          __PYX_ERR(0, 31, __pyx_L1_error)
         }
-        else if (sizeof(int) == sizeof(long) && (!(((int)-1) > 0)) && unlikely(__pyx_v_base_lower == (int)-1)  && unlikely(__Pyx_UNARY_NEG_WOULD_OVERFLOW(__pyx_v_idx))) {
+        else if (sizeof(int) == sizeof(long) && (!(((int)-1) > 0)) && unlikely(__pyx_v_base == (int)-1)  && unlikely(__Pyx_UNARY_NEG_WOULD_OVERFLOW(__pyx_v_idx))) {
           PyErr_SetString(PyExc_OverflowError, "value too large to perform division");
-          __PYX_ERR(0, 40, __pyx_L1_error)
+          __PYX_ERR(0, 31, __pyx_L1_error)
         }
-        __pyx_v_idx = __Pyx_div_int(__pyx_v_idx, __pyx_v_base_lower, 0);
+        __pyx_v_idx = __Pyx_div_int(__pyx_v_idx, __pyx_v_base, 0);
       }
 
-      /* "bruteforce.pyx":41
- *                 attempt[i] = charset_lower[idx % base_lower]
- *                 idx //= base_lower
+      /* "bruteforce.pyx":32
+ *                 attempt[i] = full_charset[idx % base]
+ *                 idx //= base
  *             attempt[length] = b'\0'             # <<<<<<<<<<<<<<
  * 
  *             hashed = hashlib.sha256(attempt[:length]).digest()
 */
       (__pyx_v_attempt[__pyx_v_length]) = '\x00';
 
-      /* "bruteforce.pyx":43
+      /* "bruteforce.pyx":34
  *             attempt[length] = b'\0'
  * 
  *             hashed = hashlib.sha256(attempt[:length]).digest()             # <<<<<<<<<<<<<<
@@ -2791,12 +2731,12 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
  *                 result = bytes(attempt[:length])
 */
       __pyx_t_13 = NULL;
-      __Pyx_GetModuleGlobalName(__pyx_t_14, __pyx_mstate_global->__pyx_n_u_hashlib); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 43, __pyx_L1_error)
+      __Pyx_GetModuleGlobalName(__pyx_t_14, __pyx_mstate_global->__pyx_n_u_hashlib); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 34, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_14);
-      __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_mstate_global->__pyx_n_u_sha256); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 43, __pyx_L1_error)
+      __pyx_t_15 = __Pyx_PyObject_GetAttrStr(__pyx_t_14, __pyx_mstate_global->__pyx_n_u_sha256); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 34, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_15);
       __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-      __pyx_t_14 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 43, __pyx_L1_error)
+      __pyx_t_14 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 34, __pyx_L1_error)
       __Pyx_GOTREF(__pyx_t_14);
       __pyx_t_4 = 1;
       #if CYTHON_UNPACK_METHODS
@@ -2816,7 +2756,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
         __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
         __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 43, __pyx_L1_error)
+        if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 34, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
       }
       __pyx_t_2 = __pyx_t_3;
@@ -2827,24 +2767,24 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_1 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_digest, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
         __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
         __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 43, __pyx_L1_error)
+        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 34, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_1);
       }
-      if (!(likely(PyBytes_CheckExact(__pyx_t_1))||((__pyx_t_1) == Py_None) || __Pyx_RaiseUnexpectedTypeError("bytes", __pyx_t_1))) __PYX_ERR(0, 43, __pyx_L1_error)
+      if (!(likely(PyBytes_CheckExact(__pyx_t_1))||((__pyx_t_1) == Py_None) || __Pyx_RaiseUnexpectedTypeError("bytes", __pyx_t_1))) __PYX_ERR(0, 34, __pyx_L1_error)
       __Pyx_XDECREF_SET(__pyx_v_hashed, ((PyObject*)__pyx_t_1));
       __pyx_t_1 = 0;
 
-      /* "bruteforce.pyx":44
+      /* "bruteforce.pyx":35
  * 
  *             hashed = hashlib.sha256(attempt[:length]).digest()
  *             if hashed == target_hash:             # <<<<<<<<<<<<<<
  *                 result = bytes(attempt[:length])
  *                 print("Found:", result.decode())
 */
-      __pyx_t_9 = (__Pyx_PyBytes_Equals(__pyx_v_hashed, __pyx_v_target_hash, Py_EQ)); if (unlikely((__pyx_t_9 < 0))) __PYX_ERR(0, 44, __pyx_L1_error)
+      __pyx_t_9 = (__Pyx_PyBytes_Equals(__pyx_v_hashed, __pyx_v_target_hash, Py_EQ)); if (unlikely((__pyx_t_9 < 0))) __PYX_ERR(0, 35, __pyx_L1_error)
       if (__pyx_t_9) {
 
-        /* "bruteforce.pyx":45
+        /* "bruteforce.pyx":36
  *             hashed = hashlib.sha256(attempt[:length]).digest()
  *             if hashed == target_hash:
  *                 result = bytes(attempt[:length])             # <<<<<<<<<<<<<<
@@ -2854,7 +2794,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_3 = NULL;
         __Pyx_INCREF((PyObject *)(&PyBytes_Type));
         __pyx_t_2 = ((PyObject *)(&PyBytes_Type)); 
-        __pyx_t_15 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 45, __pyx_L1_error)
+        __pyx_t_15 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 36, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_15);
         __pyx_t_4 = 1;
         {
@@ -2863,13 +2803,13 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
           __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
           __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 45, __pyx_L1_error)
+          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 36, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_1);
         }
         __pyx_v_result = ((PyObject*)__pyx_t_1);
         __pyx_t_1 = 0;
 
-        /* "bruteforce.pyx":46
+        /* "bruteforce.pyx":37
  *             if hashed == target_hash:
  *                 result = bytes(attempt[:length])
  *                 print("Found:", result.decode())             # <<<<<<<<<<<<<<
@@ -2879,7 +2819,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_2 = NULL;
         __Pyx_INCREF(__pyx_builtin_print);
         __pyx_t_15 = __pyx_builtin_print; 
-        __pyx_t_3 = __Pyx_decode_bytes(__pyx_v_result, 0, PY_SSIZE_T_MAX, NULL, NULL, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 46, __pyx_L1_error)
+        __pyx_t_3 = __Pyx_decode_bytes(__pyx_v_result, 0, PY_SSIZE_T_MAX, NULL, NULL, NULL); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 37, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_3);
         __pyx_t_4 = 1;
         {
@@ -2888,12 +2828,12 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
           __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
           __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 46, __pyx_L1_error)
+          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 37, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_1);
         }
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-        /* "bruteforce.pyx":47
+        /* "bruteforce.pyx":38
  *                 result = bytes(attempt[:length])
  *                 print("Found:", result.decode())
  *                 print("Hash: ", hashed.hex())             # <<<<<<<<<<<<<<
@@ -2903,7 +2843,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_15 = NULL;
         __Pyx_INCREF(__pyx_builtin_print);
         __pyx_t_3 = __pyx_builtin_print; 
-        __pyx_t_2 = __Pyx_CallUnboundCMethod0(&__pyx_mstate_global->__pyx_umethod_PyBytes_Type__hex, __pyx_v_hashed); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 47, __pyx_L1_error)
+        __pyx_t_2 = __Pyx_CallUnboundCMethod0(&__pyx_mstate_global->__pyx_umethod_PyBytes_Type__hex, __pyx_v_hashed); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 38, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_2);
         __pyx_t_4 = 1;
         {
@@ -2912,12 +2852,12 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
           __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
           __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 47, __pyx_L1_error)
+          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 38, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_1);
         }
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-        /* "bruteforce.pyx":48
+        /* "bruteforce.pyx":39
  *                 print("Found:", result.decode())
  *                 print("Hash: ", hashed.hex())
  *                 print("Time: {:.2f} seconds".format(time() - start))             # <<<<<<<<<<<<<<
@@ -2930,7 +2870,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
         __pyx_t_14 = __pyx_mstate_global->__pyx_kp_u_Time_2f_seconds;
         __Pyx_INCREF(__pyx_t_14);
         __pyx_t_16 = NULL;
-        __Pyx_GetModuleGlobalName(__pyx_t_17, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 48, __pyx_L1_error)
+        __Pyx_GetModuleGlobalName(__pyx_t_17, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 39, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_17);
         __pyx_t_4 = 1;
         #if CYTHON_UNPACK_METHODS
@@ -2949,12 +2889,12 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __pyx_t_13 = __Pyx_PyObject_FastCall(__pyx_t_17, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
           __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
           __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 48, __pyx_L1_error)
+          if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 39, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_13);
         }
-        __pyx_t_17 = PyFloat_FromDouble(__pyx_v_start); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 48, __pyx_L1_error)
+        __pyx_t_17 = PyFloat_FromDouble(__pyx_v_start); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 39, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_17);
-        __pyx_t_16 = PyNumber_Subtract(__pyx_t_13, __pyx_t_17); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 48, __pyx_L1_error)
+        __pyx_t_16 = PyNumber_Subtract(__pyx_t_13, __pyx_t_17); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 39, __pyx_L1_error)
         __Pyx_GOTREF(__pyx_t_16);
         __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
         __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
@@ -2964,7 +2904,7 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __pyx_t_15 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_format, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
           __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
           __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 48, __pyx_L1_error)
+          if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 39, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_15);
         }
         __pyx_t_4 = 1;
@@ -2974,12 +2914,12 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
           __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
           __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
           __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 48, __pyx_L1_error)
+          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 39, __pyx_L1_error)
           __Pyx_GOTREF(__pyx_t_1);
         }
         __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
 
-        /* "bruteforce.pyx":49
+        /* "bruteforce.pyx":40
  *                 print("Hash: ", hashed.hex())
  *                 print("Time: {:.2f} seconds".format(time() - start))
  *                 free(attempt)             # <<<<<<<<<<<<<<
@@ -2988,940 +2928,49 @@ static PyObject *__pyx_f_10bruteforce_crack(PyObject *__pyx_v_target_hash, CYTHO
 */
         free(__pyx_v_attempt);
 
-        /* "bruteforce.pyx":50
+        /* "bruteforce.pyx":41
  *                 print("Time: {:.2f} seconds".format(time() - start))
  *                 free(attempt)
  *                 return             # <<<<<<<<<<<<<<
  * 
- *         # If not found, try adding uppercase characters
-*/
-        __Pyx_XDECREF(__pyx_r);
-        __pyx_r = Py_None; __Pyx_INCREF(Py_None);
-        goto __pyx_L0;
-
-        /* "bruteforce.pyx":44
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      }
-    }
-
-    /* "bruteforce.pyx":53
- * 
- *         # If not found, try adding uppercase characters
- *         for count in range(total):             # <<<<<<<<<<<<<<
- *             idx = count
- *             for i in range(length - 1, -1, -1):
-*/
-    __pyx_t_10 = __pyx_v_total;
-    __pyx_t_11 = __pyx_t_10;
-    for (__pyx_t_12 = 0; __pyx_t_12 < __pyx_t_11; __pyx_t_12+=1) {
-      __pyx_v_count = __pyx_t_12;
-
-      /* "bruteforce.pyx":54
- *         # If not found, try adding uppercase characters
- *         for count in range(total):
- *             idx = count             # <<<<<<<<<<<<<<
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_upper[idx % base_upper]
-*/
-      __pyx_v_idx = __pyx_v_count;
-
-      /* "bruteforce.pyx":55
- *         for count in range(total):
- *             idx = count
- *             for i in range(length - 1, -1, -1):             # <<<<<<<<<<<<<<
- *                 attempt[i] = charset_upper[idx % base_upper]
- *                 idx //= base_upper
-*/
-      for (__pyx_t_6 = (__pyx_v_length - 1); __pyx_t_6 > -1; __pyx_t_6-=1) {
-        __pyx_v_i = __pyx_t_6;
-
-        /* "bruteforce.pyx":56
- *             idx = count
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_upper[idx % base_upper]             # <<<<<<<<<<<<<<
- *                 idx //= base_upper
- *             attempt[length] = b'\0'
-*/
-        if (unlikely(__pyx_v_base_upper == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 56, __pyx_L1_error)
-        }
-        (__pyx_v_attempt[__pyx_v_i]) = (__pyx_v_charset_upper[__Pyx_mod_int(__pyx_v_idx, __pyx_v_base_upper, 0)]);
-
-        /* "bruteforce.pyx":57
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_upper[idx % base_upper]
- *                 idx //= base_upper             # <<<<<<<<<<<<<<
- *             attempt[length] = b'\0'
- * 
-*/
-        if (unlikely(__pyx_v_base_upper == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 57, __pyx_L1_error)
-        }
-        else if (sizeof(int) == sizeof(long) && (!(((int)-1) > 0)) && unlikely(__pyx_v_base_upper == (int)-1)  && unlikely(__Pyx_UNARY_NEG_WOULD_OVERFLOW(__pyx_v_idx))) {
-          PyErr_SetString(PyExc_OverflowError, "value too large to perform division");
-          __PYX_ERR(0, 57, __pyx_L1_error)
-        }
-        __pyx_v_idx = __Pyx_div_int(__pyx_v_idx, __pyx_v_base_upper, 0);
-      }
-
-      /* "bruteforce.pyx":58
- *                 attempt[i] = charset_upper[idx % base_upper]
- *                 idx //= base_upper
- *             attempt[length] = b'\0'             # <<<<<<<<<<<<<<
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
-*/
-      (__pyx_v_attempt[__pyx_v_length]) = '\x00';
-
-      /* "bruteforce.pyx":60
- *             attempt[length] = b'\0'
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()             # <<<<<<<<<<<<<<
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
-*/
-      __pyx_t_3 = NULL;
-      __Pyx_GetModuleGlobalName(__pyx_t_16, __pyx_mstate_global->__pyx_n_u_hashlib); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 60, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_16);
-      __pyx_t_14 = __Pyx_PyObject_GetAttrStr(__pyx_t_16, __pyx_mstate_global->__pyx_n_u_sha256); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 60, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_14);
-      __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-      __pyx_t_16 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 60, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_16);
-      __pyx_t_4 = 1;
-      #if CYTHON_UNPACK_METHODS
-      if (unlikely(PyMethod_Check(__pyx_t_14))) {
-        __pyx_t_3 = PyMethod_GET_SELF(__pyx_t_14);
-        assert(__pyx_t_3);
-        PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_14);
-        __Pyx_INCREF(__pyx_t_3);
-        __Pyx_INCREF(__pyx__function);
-        __Pyx_DECREF_SET(__pyx_t_14, __pyx__function);
-        __pyx_t_4 = 0;
-      }
-      #endif
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_3, __pyx_t_16};
-        __pyx_t_15 = __Pyx_PyObject_FastCall(__pyx_t_14, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-        __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-        __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-        if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 60, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_15);
-      }
-      __pyx_t_2 = __pyx_t_15;
-      __Pyx_INCREF(__pyx_t_2);
-      __pyx_t_4 = 0;
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_2, NULL};
-        __pyx_t_1 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_digest, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-        __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 60, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-      }
-      if (!(likely(PyBytes_CheckExact(__pyx_t_1))||((__pyx_t_1) == Py_None) || __Pyx_RaiseUnexpectedTypeError("bytes", __pyx_t_1))) __PYX_ERR(0, 60, __pyx_L1_error)
-      __Pyx_XDECREF_SET(__pyx_v_hashed, ((PyObject*)__pyx_t_1));
-      __pyx_t_1 = 0;
-
-      /* "bruteforce.pyx":61
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      __pyx_t_9 = (__Pyx_PyBytes_Equals(__pyx_v_hashed, __pyx_v_target_hash, Py_EQ)); if (unlikely((__pyx_t_9 < 0))) __PYX_ERR(0, 61, __pyx_L1_error)
-      if (__pyx_t_9) {
-
-        /* "bruteforce.pyx":62
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])             # <<<<<<<<<<<<<<
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
-*/
-        __pyx_t_15 = NULL;
-        __Pyx_INCREF((PyObject *)(&PyBytes_Type));
-        __pyx_t_2 = ((PyObject *)(&PyBytes_Type)); 
-        __pyx_t_14 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 62, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_14);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_14};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 62, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __pyx_v_result = ((PyObject*)__pyx_t_1);
-        __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":63
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())             # <<<<<<<<<<<<<<
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
-*/
-        __pyx_t_2 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_14 = __pyx_builtin_print; 
-        __pyx_t_15 = __Pyx_decode_bytes(__pyx_v_result, 0, PY_SSIZE_T_MAX, NULL, NULL, NULL); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 63, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_15);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_2, __pyx_mstate_global->__pyx_kp_u_Found, __pyx_t_15};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_14, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 63, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":64
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())             # <<<<<<<<<<<<<<
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
-*/
-        __pyx_t_14 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_15 = __pyx_builtin_print; 
-        __pyx_t_2 = __Pyx_CallUnboundCMethod0(&__pyx_mstate_global->__pyx_umethod_PyBytes_Type__hex, __pyx_v_hashed); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 64, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_2);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_14, __pyx_mstate_global->__pyx_kp_u_Hash, __pyx_t_2};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_15, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 64, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":65
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))             # <<<<<<<<<<<<<<
- *                 free(attempt)
- *                 return
-*/
-        __pyx_t_15 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_2 = __pyx_builtin_print; 
-        __pyx_t_16 = __pyx_mstate_global->__pyx_kp_u_Time_2f_seconds;
-        __Pyx_INCREF(__pyx_t_16);
-        __pyx_t_17 = NULL;
-        __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 65, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_4 = 1;
-        #if CYTHON_UNPACK_METHODS
-        if (unlikely(PyMethod_Check(__pyx_t_13))) {
-          __pyx_t_17 = PyMethod_GET_SELF(__pyx_t_13);
-          assert(__pyx_t_17);
-          PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_13);
-          __Pyx_INCREF(__pyx_t_17);
-          __Pyx_INCREF(__pyx__function);
-          __Pyx_DECREF_SET(__pyx_t_13, __pyx__function);
-          __pyx_t_4 = 0;
-        }
-        #endif
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_17, NULL};
-          __pyx_t_3 = __Pyx_PyObject_FastCall(__pyx_t_13, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_17); __pyx_t_17 = 0;
-          __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-          if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 65, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_3);
-        }
-        __pyx_t_13 = PyFloat_FromDouble(__pyx_v_start); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 65, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __pyx_t_17 = PyNumber_Subtract(__pyx_t_3, __pyx_t_13); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 65, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_17);
-        __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __pyx_t_4 = 0;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_16, __pyx_t_17};
-          __pyx_t_14 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_format, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-          if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 65, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_14);
-        }
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_14};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 65, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":66
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)             # <<<<<<<<<<<<<<
- *                 return
- * 
-*/
-        free(__pyx_v_attempt);
-
-        /* "bruteforce.pyx":67
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
- *                 return             # <<<<<<<<<<<<<<
- * 
- *         # Now try digits
-*/
-        __Pyx_XDECREF(__pyx_r);
-        __pyx_r = Py_None; __Pyx_INCREF(Py_None);
-        goto __pyx_L0;
-
-        /* "bruteforce.pyx":61
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      }
-    }
-
-    /* "bruteforce.pyx":70
- * 
- *         # Now try digits
- *         for count in range(total):             # <<<<<<<<<<<<<<
- *             idx = count
- *             for i in range(length - 1, -1, -1):
-*/
-    __pyx_t_10 = __pyx_v_total;
-    __pyx_t_11 = __pyx_t_10;
-    for (__pyx_t_12 = 0; __pyx_t_12 < __pyx_t_11; __pyx_t_12+=1) {
-      __pyx_v_count = __pyx_t_12;
-
-      /* "bruteforce.pyx":71
- *         # Now try digits
- *         for count in range(total):
- *             idx = count             # <<<<<<<<<<<<<<
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_digits[idx % base_digits]
-*/
-      __pyx_v_idx = __pyx_v_count;
-
-      /* "bruteforce.pyx":72
- *         for count in range(total):
- *             idx = count
- *             for i in range(length - 1, -1, -1):             # <<<<<<<<<<<<<<
- *                 attempt[i] = charset_digits[idx % base_digits]
- *                 idx //= base_digits
-*/
-      for (__pyx_t_6 = (__pyx_v_length - 1); __pyx_t_6 > -1; __pyx_t_6-=1) {
-        __pyx_v_i = __pyx_t_6;
-
-        /* "bruteforce.pyx":73
- *             idx = count
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_digits[idx % base_digits]             # <<<<<<<<<<<<<<
- *                 idx //= base_digits
- *             attempt[length] = b'\0'
-*/
-        if (unlikely(__pyx_v_base_digits == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 73, __pyx_L1_error)
-        }
-        (__pyx_v_attempt[__pyx_v_i]) = (__pyx_v_charset_digits[__Pyx_mod_int(__pyx_v_idx, __pyx_v_base_digits, 0)]);
-
-        /* "bruteforce.pyx":74
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_digits[idx % base_digits]
- *                 idx //= base_digits             # <<<<<<<<<<<<<<
- *             attempt[length] = b'\0'
- * 
-*/
-        if (unlikely(__pyx_v_base_digits == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 74, __pyx_L1_error)
-        }
-        else if (sizeof(int) == sizeof(long) && (!(((int)-1) > 0)) && unlikely(__pyx_v_base_digits == (int)-1)  && unlikely(__Pyx_UNARY_NEG_WOULD_OVERFLOW(__pyx_v_idx))) {
-          PyErr_SetString(PyExc_OverflowError, "value too large to perform division");
-          __PYX_ERR(0, 74, __pyx_L1_error)
-        }
-        __pyx_v_idx = __Pyx_div_int(__pyx_v_idx, __pyx_v_base_digits, 0);
-      }
-
-      /* "bruteforce.pyx":75
- *                 attempt[i] = charset_digits[idx % base_digits]
- *                 idx //= base_digits
- *             attempt[length] = b'\0'             # <<<<<<<<<<<<<<
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
-*/
-      (__pyx_v_attempt[__pyx_v_length]) = '\x00';
-
-      /* "bruteforce.pyx":77
- *             attempt[length] = b'\0'
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()             # <<<<<<<<<<<<<<
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
-*/
-      __pyx_t_15 = NULL;
-      __Pyx_GetModuleGlobalName(__pyx_t_17, __pyx_mstate_global->__pyx_n_u_hashlib); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 77, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_17);
-      __pyx_t_16 = __Pyx_PyObject_GetAttrStr(__pyx_t_17, __pyx_mstate_global->__pyx_n_u_sha256); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 77, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_16);
-      __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-      __pyx_t_17 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 77, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_17);
-      __pyx_t_4 = 1;
-      #if CYTHON_UNPACK_METHODS
-      if (unlikely(PyMethod_Check(__pyx_t_16))) {
-        __pyx_t_15 = PyMethod_GET_SELF(__pyx_t_16);
-        assert(__pyx_t_15);
-        PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_16);
-        __Pyx_INCREF(__pyx_t_15);
-        __Pyx_INCREF(__pyx__function);
-        __Pyx_DECREF_SET(__pyx_t_16, __pyx__function);
-        __pyx_t_4 = 0;
-      }
-      #endif
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_15, __pyx_t_17};
-        __pyx_t_14 = __Pyx_PyObject_FastCall(__pyx_t_16, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_15); __pyx_t_15 = 0;
-        __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-        __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-        if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 77, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_14);
-      }
-      __pyx_t_2 = __pyx_t_14;
-      __Pyx_INCREF(__pyx_t_2);
-      __pyx_t_4 = 0;
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_2, NULL};
-        __pyx_t_1 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_digest, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-        __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 77, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-      }
-      if (!(likely(PyBytes_CheckExact(__pyx_t_1))||((__pyx_t_1) == Py_None) || __Pyx_RaiseUnexpectedTypeError("bytes", __pyx_t_1))) __PYX_ERR(0, 77, __pyx_L1_error)
-      __Pyx_XDECREF_SET(__pyx_v_hashed, ((PyObject*)__pyx_t_1));
-      __pyx_t_1 = 0;
-
-      /* "bruteforce.pyx":78
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      __pyx_t_9 = (__Pyx_PyBytes_Equals(__pyx_v_hashed, __pyx_v_target_hash, Py_EQ)); if (unlikely((__pyx_t_9 < 0))) __PYX_ERR(0, 78, __pyx_L1_error)
-      if (__pyx_t_9) {
-
-        /* "bruteforce.pyx":79
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])             # <<<<<<<<<<<<<<
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
-*/
-        __pyx_t_14 = NULL;
-        __Pyx_INCREF((PyObject *)(&PyBytes_Type));
-        __pyx_t_2 = ((PyObject *)(&PyBytes_Type)); 
-        __pyx_t_16 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 79, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_16);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_14, __pyx_t_16};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 79, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __pyx_v_result = ((PyObject*)__pyx_t_1);
-        __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":80
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())             # <<<<<<<<<<<<<<
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
-*/
-        __pyx_t_2 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_16 = __pyx_builtin_print; 
-        __pyx_t_14 = __Pyx_decode_bytes(__pyx_v_result, 0, PY_SSIZE_T_MAX, NULL, NULL, NULL); if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 80, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_14);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_2, __pyx_mstate_global->__pyx_kp_u_Found, __pyx_t_14};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_16, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 80, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":81
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())             # <<<<<<<<<<<<<<
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
-*/
-        __pyx_t_16 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_14 = __pyx_builtin_print; 
-        __pyx_t_2 = __Pyx_CallUnboundCMethod0(&__pyx_mstate_global->__pyx_umethod_PyBytes_Type__hex, __pyx_v_hashed); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 81, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_2);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_16, __pyx_mstate_global->__pyx_kp_u_Hash, __pyx_t_2};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_14, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 81, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":82
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))             # <<<<<<<<<<<<<<
- *                 free(attempt)
- *                 return
-*/
-        __pyx_t_14 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_2 = __pyx_builtin_print; 
-        __pyx_t_17 = __pyx_mstate_global->__pyx_kp_u_Time_2f_seconds;
-        __Pyx_INCREF(__pyx_t_17);
-        __pyx_t_13 = NULL;
-        __Pyx_GetModuleGlobalName(__pyx_t_3, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 82, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_3);
-        __pyx_t_4 = 1;
-        #if CYTHON_UNPACK_METHODS
-        if (unlikely(PyMethod_Check(__pyx_t_3))) {
-          __pyx_t_13 = PyMethod_GET_SELF(__pyx_t_3);
-          assert(__pyx_t_13);
-          PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_3);
-          __Pyx_INCREF(__pyx_t_13);
-          __Pyx_INCREF(__pyx__function);
-          __Pyx_DECREF_SET(__pyx_t_3, __pyx__function);
-          __pyx_t_4 = 0;
-        }
-        #endif
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_13, NULL};
-          __pyx_t_15 = __Pyx_PyObject_FastCall(__pyx_t_3, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-          __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-          if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 82, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_15);
-        }
-        __pyx_t_3 = PyFloat_FromDouble(__pyx_v_start); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 82, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_3);
-        __pyx_t_13 = PyNumber_Subtract(__pyx_t_15, __pyx_t_3); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 82, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_13);
-        __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-        __pyx_t_4 = 0;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_17, __pyx_t_13};
-          __pyx_t_16 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_format, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_17); __pyx_t_17 = 0;
-          __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-          if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 82, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_16);
-        }
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_14, __pyx_t_16};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-          __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 82, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":83
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)             # <<<<<<<<<<<<<<
- *                 return
- * 
-*/
-        free(__pyx_v_attempt);
-
-        /* "bruteforce.pyx":84
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
- *                 return             # <<<<<<<<<<<<<<
- * 
- *         # Finally, try symbols
-*/
-        __Pyx_XDECREF(__pyx_r);
-        __pyx_r = Py_None; __Pyx_INCREF(Py_None);
-        goto __pyx_L0;
-
-        /* "bruteforce.pyx":78
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      }
-    }
-
-    /* "bruteforce.pyx":87
- * 
- *         # Finally, try symbols
- *         for count in range(total):             # <<<<<<<<<<<<<<
- *             idx = count
- *             for i in range(length - 1, -1, -1):
-*/
-    __pyx_t_10 = __pyx_v_total;
-    __pyx_t_11 = __pyx_t_10;
-    for (__pyx_t_12 = 0; __pyx_t_12 < __pyx_t_11; __pyx_t_12+=1) {
-      __pyx_v_count = __pyx_t_12;
-
-      /* "bruteforce.pyx":88
- *         # Finally, try symbols
- *         for count in range(total):
- *             idx = count             # <<<<<<<<<<<<<<
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_symbols[idx % base_symbols]
-*/
-      __pyx_v_idx = __pyx_v_count;
-
-      /* "bruteforce.pyx":89
- *         for count in range(total):
- *             idx = count
- *             for i in range(length - 1, -1, -1):             # <<<<<<<<<<<<<<
- *                 attempt[i] = charset_symbols[idx % base_symbols]
- *                 idx //= base_symbols
-*/
-      for (__pyx_t_6 = (__pyx_v_length - 1); __pyx_t_6 > -1; __pyx_t_6-=1) {
-        __pyx_v_i = __pyx_t_6;
-
-        /* "bruteforce.pyx":90
- *             idx = count
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_symbols[idx % base_symbols]             # <<<<<<<<<<<<<<
- *                 idx //= base_symbols
- *             attempt[length] = b'\0'
-*/
-        if (unlikely(__pyx_v_base_symbols == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 90, __pyx_L1_error)
-        }
-        (__pyx_v_attempt[__pyx_v_i]) = (__pyx_v_charset_symbols[__Pyx_mod_int(__pyx_v_idx, __pyx_v_base_symbols, 0)]);
-
-        /* "bruteforce.pyx":91
- *             for i in range(length - 1, -1, -1):
- *                 attempt[i] = charset_symbols[idx % base_symbols]
- *                 idx //= base_symbols             # <<<<<<<<<<<<<<
- *             attempt[length] = b'\0'
- * 
-*/
-        if (unlikely(__pyx_v_base_symbols == 0)) {
-          PyErr_SetString(PyExc_ZeroDivisionError, "integer division or modulo by zero");
-          __PYX_ERR(0, 91, __pyx_L1_error)
-        }
-        else if (sizeof(int) == sizeof(long) && (!(((int)-1) > 0)) && unlikely(__pyx_v_base_symbols == (int)-1)  && unlikely(__Pyx_UNARY_NEG_WOULD_OVERFLOW(__pyx_v_idx))) {
-          PyErr_SetString(PyExc_OverflowError, "value too large to perform division");
-          __PYX_ERR(0, 91, __pyx_L1_error)
-        }
-        __pyx_v_idx = __Pyx_div_int(__pyx_v_idx, __pyx_v_base_symbols, 0);
-      }
-
-      /* "bruteforce.pyx":92
- *                 attempt[i] = charset_symbols[idx % base_symbols]
- *                 idx //= base_symbols
- *             attempt[length] = b'\0'             # <<<<<<<<<<<<<<
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
-*/
-      (__pyx_v_attempt[__pyx_v_length]) = '\x00';
-
-      /* "bruteforce.pyx":94
- *             attempt[length] = b'\0'
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()             # <<<<<<<<<<<<<<
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
-*/
-      __pyx_t_14 = NULL;
-      __Pyx_GetModuleGlobalName(__pyx_t_13, __pyx_mstate_global->__pyx_n_u_hashlib); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 94, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_17 = __Pyx_PyObject_GetAttrStr(__pyx_t_13, __pyx_mstate_global->__pyx_n_u_sha256); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 94, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_17);
-      __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-      __pyx_t_13 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_13)) __PYX_ERR(0, 94, __pyx_L1_error)
-      __Pyx_GOTREF(__pyx_t_13);
-      __pyx_t_4 = 1;
-      #if CYTHON_UNPACK_METHODS
-      if (unlikely(PyMethod_Check(__pyx_t_17))) {
-        __pyx_t_14 = PyMethod_GET_SELF(__pyx_t_17);
-        assert(__pyx_t_14);
-        PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_17);
-        __Pyx_INCREF(__pyx_t_14);
-        __Pyx_INCREF(__pyx__function);
-        __Pyx_DECREF_SET(__pyx_t_17, __pyx__function);
-        __pyx_t_4 = 0;
-      }
-      #endif
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_14, __pyx_t_13};
-        __pyx_t_16 = __Pyx_PyObject_FastCall(__pyx_t_17, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_14); __pyx_t_14 = 0;
-        __Pyx_DECREF(__pyx_t_13); __pyx_t_13 = 0;
-        __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-        if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 94, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_16);
-      }
-      __pyx_t_2 = __pyx_t_16;
-      __Pyx_INCREF(__pyx_t_2);
-      __pyx_t_4 = 0;
-      {
-        PyObject *__pyx_callargs[2] = {__pyx_t_2, NULL};
-        __pyx_t_1 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_digest, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-        __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-        __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-        if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 94, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_1);
-      }
-      if (!(likely(PyBytes_CheckExact(__pyx_t_1))||((__pyx_t_1) == Py_None) || __Pyx_RaiseUnexpectedTypeError("bytes", __pyx_t_1))) __PYX_ERR(0, 94, __pyx_L1_error)
-      __Pyx_XDECREF_SET(__pyx_v_hashed, ((PyObject*)__pyx_t_1));
-      __pyx_t_1 = 0;
-
-      /* "bruteforce.pyx":95
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      __pyx_t_9 = (__Pyx_PyBytes_Equals(__pyx_v_hashed, __pyx_v_target_hash, Py_EQ)); if (unlikely((__pyx_t_9 < 0))) __PYX_ERR(0, 95, __pyx_L1_error)
-      if (__pyx_t_9) {
-
-        /* "bruteforce.pyx":96
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])             # <<<<<<<<<<<<<<
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
-*/
-        __pyx_t_16 = NULL;
-        __Pyx_INCREF((PyObject *)(&PyBytes_Type));
-        __pyx_t_2 = ((PyObject *)(&PyBytes_Type)); 
-        __pyx_t_17 = __Pyx_PyBytes_FromStringAndSize(__pyx_v_attempt + 0, __pyx_v_length - 0); if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 96, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_17);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_16, __pyx_t_17};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 96, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __pyx_v_result = ((PyObject*)__pyx_t_1);
-        __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":97
- *             if hashed == target_hash:
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())             # <<<<<<<<<<<<<<
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
-*/
-        __pyx_t_2 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_17 = __pyx_builtin_print; 
-        __pyx_t_16 = __Pyx_decode_bytes(__pyx_v_result, 0, PY_SSIZE_T_MAX, NULL, NULL, NULL); if (unlikely(!__pyx_t_16)) __PYX_ERR(0, 97, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_16);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_2, __pyx_mstate_global->__pyx_kp_u_Found, __pyx_t_16};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_17, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 97, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":98
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())             # <<<<<<<<<<<<<<
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
-*/
-        __pyx_t_17 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_16 = __pyx_builtin_print; 
-        __pyx_t_2 = __Pyx_CallUnboundCMethod0(&__pyx_mstate_global->__pyx_umethod_PyBytes_Type__hex, __pyx_v_hashed); if (unlikely(!__pyx_t_2)) __PYX_ERR(0, 98, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_2);
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[3] = {__pyx_t_17, __pyx_mstate_global->__pyx_kp_u_Hash, __pyx_t_2};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_16, __pyx_callargs+__pyx_t_4, (3-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_17); __pyx_t_17 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          __Pyx_DECREF(__pyx_t_16); __pyx_t_16 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 98, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":99
- *                 print("Found:", result.decode())
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))             # <<<<<<<<<<<<<<
- *                 free(attempt)
- *                 return
-*/
-        __pyx_t_16 = NULL;
-        __Pyx_INCREF(__pyx_builtin_print);
-        __pyx_t_2 = __pyx_builtin_print; 
-        __pyx_t_13 = __pyx_mstate_global->__pyx_kp_u_Time_2f_seconds;
-        __Pyx_INCREF(__pyx_t_13);
-        __pyx_t_3 = NULL;
-        __Pyx_GetModuleGlobalName(__pyx_t_15, __pyx_mstate_global->__pyx_n_u_time); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 99, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_15);
-        __pyx_t_4 = 1;
-        #if CYTHON_UNPACK_METHODS
-        if (unlikely(PyMethod_Check(__pyx_t_15))) {
-          __pyx_t_3 = PyMethod_GET_SELF(__pyx_t_15);
-          assert(__pyx_t_3);
-          PyObject* __pyx__function = PyMethod_GET_FUNCTION(__pyx_t_15);
-          __Pyx_INCREF(__pyx_t_3);
-          __Pyx_INCREF(__pyx__function);
-          __Pyx_DECREF_SET(__pyx_t_15, __pyx__function);
-          __pyx_t_4 = 0;
-        }
-        #endif
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_3, NULL};
-          __pyx_t_14 = __Pyx_PyObject_FastCall(__pyx_t_15, __pyx_callargs+__pyx_t_4, (1-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_3); __pyx_t_3 = 0;
-          __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-          if (unlikely(!__pyx_t_14)) __PYX_ERR(0, 99, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_14);
-        }
-        __pyx_t_15 = PyFloat_FromDouble(__pyx_v_start); if (unlikely(!__pyx_t_15)) __PYX_ERR(0, 99, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_15);
-        __pyx_t_3 = PyNumber_Subtract(__pyx_t_14, __pyx_t_15); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 99, __pyx_L1_error)
-        __Pyx_GOTREF(__pyx_t_3);
-        __Pyx_DECREF(__pyx_t_14); __pyx_t_14 = 0;
-        __Pyx_DECREF(__pyx_t_15); __pyx_t_15 = 0;
-        __pyx_t_4 = 0;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_13, __pyx_t_3};
-          __pyx_t_17 = __Pyx_PyObject_FastCallMethod(__pyx_mstate_global->__pyx_n_u_format, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (1*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_13); __pyx_t_13 = 0;
-          __Pyx_DECREF(__pyx_t_3); __pyx_t_3 = 0;
-          if (unlikely(!__pyx_t_17)) __PYX_ERR(0, 99, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_17);
-        }
-        __pyx_t_4 = 1;
-        {
-          PyObject *__pyx_callargs[2] = {__pyx_t_16, __pyx_t_17};
-          __pyx_t_1 = __Pyx_PyObject_FastCall(__pyx_t_2, __pyx_callargs+__pyx_t_4, (2-__pyx_t_4) | (__pyx_t_4*__Pyx_PY_VECTORCALL_ARGUMENTS_OFFSET));
-          __Pyx_XDECREF(__pyx_t_16); __pyx_t_16 = 0;
-          __Pyx_DECREF(__pyx_t_17); __pyx_t_17 = 0;
-          __Pyx_DECREF(__pyx_t_2); __pyx_t_2 = 0;
-          if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 99, __pyx_L1_error)
-          __Pyx_GOTREF(__pyx_t_1);
-        }
-        __Pyx_DECREF(__pyx_t_1); __pyx_t_1 = 0;
-
-        /* "bruteforce.pyx":100
- *                 print("Hash: ", hashed.hex())
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)             # <<<<<<<<<<<<<<
- *                 return
- * 
-*/
-        free(__pyx_v_attempt);
-
-        /* "bruteforce.pyx":101
- *                 print("Time: {:.2f} seconds".format(time() - start))
- *                 free(attempt)
- *                 return             # <<<<<<<<<<<<<<
- * 
- *         length += 1  # If not found, increase the password length and retry
-*/
-        __Pyx_XDECREF(__pyx_r);
-        __pyx_r = Py_None; __Pyx_INCREF(Py_None);
-        goto __pyx_L0;
-
-        /* "bruteforce.pyx":95
- * 
- *             hashed = hashlib.sha256(attempt[:length]).digest()
- *             if hashed == target_hash:             # <<<<<<<<<<<<<<
- *                 result = bytes(attempt[:length])
- *                 print("Found:", result.decode())
-*/
-      }
-    }
-
-    /* "bruteforce.pyx":103
- *                 return
- * 
- *         length += 1  # If not found, increase the password length and retry             # <<<<<<<<<<<<<<
  *         free(attempt)
 */
-    __pyx_v_length = (__pyx_v_length + 1);
+        __Pyx_XDECREF(__pyx_r);
+        __pyx_r = Py_None; __Pyx_INCREF(Py_None);
+        goto __pyx_L0;
 
-    /* "bruteforce.pyx":104
+        /* "bruteforce.pyx":35
  * 
- *         length += 1  # If not found, increase the password length and retry
+ *             hashed = hashlib.sha256(attempt[:length]).digest()
+ *             if hashed == target_hash:             # <<<<<<<<<<<<<<
+ *                 result = bytes(attempt[:length])
+ *                 print("Found:", result.decode())
+*/
+      }
+    }
+
+    /* "bruteforce.pyx":43
+ *                 return
+ * 
  *         free(attempt)             # <<<<<<<<<<<<<<
+ *         length += 1
 */
     free(__pyx_v_attempt);
+
+    /* "bruteforce.pyx":44
+ * 
+ *         free(attempt)
+ *         length += 1             # <<<<<<<<<<<<<<
+*/
+    __pyx_v_length = (__pyx_v_length + 1);
   }
 
   /* "bruteforce.pyx":6
  * from time import time
  * 
  * cpdef crack(bytes target_hash):             # <<<<<<<<<<<<<<
- *     # Charset starts with lowercase letters and expands later
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"
+ *     # Combined charset: lowercase + uppercase + digits + symbols
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
 */
 
   /* function exit code */
@@ -4463,8 +3512,8 @@ __Pyx_RefNannySetupContext("PyInit_bruteforce", 0);
  * from time import time
  * 
  * cpdef crack(bytes target_hash):             # <<<<<<<<<<<<<<
- *     # Charset starts with lowercase letters and expands later
- *     cdef char* charset_lower = b"abcdefghijklmnopqrstuvwxyz"
+ *     # Combined charset: lowercase + uppercase + digits + symbols
+ *     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
 */
   __pyx_t_3 = __Pyx_CyFunction_New(&__pyx_mdef_10bruteforce_1crack, 0, __pyx_mstate_global->__pyx_n_u_crack, NULL, __pyx_mstate_global->__pyx_n_u_bruteforce, __pyx_mstate_global->__pyx_d, ((PyObject *)__pyx_mstate_global->__pyx_codeobj_tab[0])); if (unlikely(!__pyx_t_3)) __PYX_ERR(0, 6, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_3);
@@ -4581,8 +3630,8 @@ static int __Pyx_InitStrings(__Pyx_StringTabEntry const *t, PyObject **target, c
 
 static int __Pyx_InitCachedBuiltins(__pyx_mstatetype *__pyx_mstate) {
   CYTHON_UNUSED_VAR(__pyx_mstate);
-  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_mstate->__pyx_n_u_range); if (!__pyx_builtin_range) __PYX_ERR(0, 27, __pyx_L1_error)
-  __pyx_builtin_print = __Pyx_GetBuiltinName(__pyx_mstate->__pyx_n_u_print); if (!__pyx_builtin_print) __PYX_ERR(0, 32, __pyx_L1_error)
+  __pyx_builtin_range = __Pyx_GetBuiltinName(__pyx_mstate->__pyx_n_u_range); if (!__pyx_builtin_range) __PYX_ERR(0, 19, __pyx_L1_error)
+  __pyx_builtin_print = __Pyx_GetBuiltinName(__pyx_mstate->__pyx_n_u_print); if (!__pyx_builtin_print) __PYX_ERR(0, 24, __pyx_L1_error)
   return 0;
   __pyx_L1_error:;
   return -1;
@@ -4618,7 +3667,7 @@ static int __Pyx_InitConstants(__pyx_mstatetype *__pyx_mstate) {
             unsigned int nlocals : 1;
             unsigned int flags : 10;
             unsigned int first_line : 3;
-            unsigned int line_table_length : 15;
+            unsigned int line_table_length : 13;
         } __Pyx_PyCode_New_function_description;
 /* NewCodeObj.proto */
 static PyObject* __Pyx_PyCode_New(
@@ -4635,9 +3684,9 @@ static int __Pyx_CreateCodeObjects(__pyx_mstatetype *__pyx_mstate) {
   PyObject* tuple_dedup_map = PyDict_New();
   if (unlikely(!tuple_dedup_map)) return -1;
   {
-    __Pyx_PyCode_New_function_description descr = {1, 0, 0, 1, (unsigned int)(CO_OPTIMIZED|CO_NEWLOCALS), 6, 800};
+    __Pyx_PyCode_New_function_description descr = {1, 0, 0, 1, (unsigned int)(CO_OPTIMIZED|CO_NEWLOCALS), 6, 261};
     PyObject* varnames[] = {__pyx_mstate->__pyx_n_u_target_hash};
-    __pyx_mstate_global->__pyx_codeobj_tab[0] = __Pyx_PyCode_New(descr, varnames, __pyx_mstate->__pyx_kp_u_bruteforce_pyx, __pyx_mstate->__pyx_n_u_crack, __pyx_k_q_q_6_F_1_a_A_E_aq_Q_q_r_4q_IU, tuple_dedup_map); if (unlikely(!__pyx_mstate_global->__pyx_codeobj_tab[0])) goto bad;
+    __pyx_mstate_global->__pyx_codeobj_tab[0] = __Pyx_PyCode_New(descr, varnames, __pyx_mstate->__pyx_kp_u_bruteforce_pyx, __pyx_mstate->__pyx_n_u_crack, __pyx_k_a_F_1_a_A_E_aq_Q_q_r_4q_IU_1_U, tuple_dedup_map); if (unlikely(!__pyx_mstate_global->__pyx_codeobj_tab[0])) goto bad;
   }
   Py_DECREF(tuple_dedup_map);
   return 0;
