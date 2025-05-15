@@ -3,6 +3,7 @@ from libc.string cimport strlen
 import hashlib
 from time import time
 
+
 cpdef crack(bytes target_hash):
     # Combined charset: lowercase + uppercase + digits + symbols
     cdef char* full_charset = b"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_-+=<>?/.,"
