@@ -1,4 +1,4 @@
-# PassForce project by lag/somerandom_boi
+# PassForce project by somerandom_boi
 
 ## what is the passforce project?
 ### the passforce project is a simple tool that uses cython and python
