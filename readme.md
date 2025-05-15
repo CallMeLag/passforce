@@ -10,8 +10,8 @@
 #### for your own computer to find your password or whatever you type in it
 
 ## How to use in CLI
-#### very simple to use in CMD or other CLI's. It only has 1 argument rn
-#### which is the password so you can type the password instead (optional)
+#### very simple to use in CMD or other CLI's. It only has 1 argument 
+#### which is the `-p or --password` so you can type the password (optional)
 #### example: `main.py -p="password"` or `main.py --password="whatever"`
 
 
