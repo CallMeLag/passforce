@@ -1,6 +1,7 @@
 import sys
 from hashlib import sha256
 
+
 def hash_word(raw_word):
     return sha256(raw_word.encode()).hexdigest()
 
